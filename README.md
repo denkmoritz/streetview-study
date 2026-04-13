@@ -1,6 +1,6 @@
 # Street View Survey
 
-A web-based pairwise comparison survey built for Prolific, developed at the [SPARC lab](https://www.uni-muenster.de/Geoinformatics/en/sparc/about/about.html), University of Münster.
+A web-based pairwise comparison survey built for Prolific. Developed by [Moritz Denk](https://github.com/denkmoritz) as a student assistant at the [SPARC lab](https://www.uni-muenster.de/Geoinformatics/en/sparc/about/about.html), University of Münster.
 
 Participants are shown pairs of interactive Google Street View panoramas of urban scenes and asked to judge which place appears **more beautiful**, **safer**, and **more walkable**.
 
