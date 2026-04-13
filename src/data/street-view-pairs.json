@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "imageA": {
+      "url": "https://www.google.com/maps/@35.6892381,139.7003509,3a,90y,178.72h,93.98t/data=!3m7!1e1!3m5!1syF5HUEGow8XmBYfZ58rljw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9767805293089964%26panoid%3DyF5HUEGow8XmBYfZ58rljw%26yaw%3D178.72360937902036!7i16384!8i8192?hl=en&entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 35.6892381,
+      "lng": 139.7003509,
+      "panoid": "yF5HUEGow8XmBYfZ58rljw",
+      "pitch": -3.98,
+      "yaw": 178.72
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@35.6890824,139.7006718,3a,75y,258.89h,85.35t/data=!3m7!1e1!3m5!1sRCIszItGxSYM-0BM0Fc60g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.6485125655474775%26panoid%3DRCIszItGxSYM-0BM0Fc60g%26yaw%3D258.88729513235853!7i16384!8i8192?hl=en&entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 35.6890824,
+      "lng": 139.7006718,
+      "panoid": "RCIszItGxSYM-0BM0Fc60g",
+      "pitch": 4.65,
+      "yaw": 258.89
+    },
+    "note": "Shinjuku Station, Tokyo: One of the busiest metro stations in the world, has many different exits, view is not famous"
+  },
+  {
+    "id": 2,
+    "imageA": {
+      "url": "https://www.google.com/maps/@51.5163285,-0.1300332,2a,75y,339.78h,87.03t/data=!3m7!1e1!3m5!1srckMhVzCmunEUltsHTJOqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.972448289040969%26panoid%3DrckMhVzCmunEUltsHTJOqQ%26yaw%3D339.78311189660417!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 51.5163285,
+      "lng": -0.1300332,
+      "panoid": "rckMhVzCmunEUltsHTJOqQ",
+      "pitch": 2.972448289040969,
+      "yaw": 339.78311189660417
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@51.5164961,-0.1298553,3a,75y,254.98h,92.72t/data=!3m7!1e1!3m5!1sObedsYxrmvcZwPeHg4bgbQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.718420379579925%26panoid%3DObedsYxrmvcZwPeHg4bgbQ%26yaw%3D254.97815121421584!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 51.5164961,
+      "lng": -0.1298553,
+      "panoid": "ObedsYxrmvcZwPeHg4bgbQ",
+      "pitch": -2.718420379579925,
+      "yaw": 254.97815121421584
+    },
+    "note": "Tottenham Court Road Station, London: Small station in central London, perfect first pair, because image depicts the exit of station"
+  },
+  {
+    "id": 3,
+    "imageA": {
+      "url": "https://www.google.com/maps/@34.6752746,135.512096,3a,90y,31.25h,83.36t/data=!3m7!1e1!3m5!1s7CrNRFSWsphiuprTxlKxaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.635812651333779%26panoid%3D7CrNRFSWsphiuprTxlKxaw%26yaw%3D31.251714454775282!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 34.6752746,
+      "lng": 135.512096,
+      "panoid": "7CrNRFSWsphiuprTxlKxaw",
+      "pitch": 6.635812651333779,
+      "yaw": 31.251714454775282
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@34.6753992,135.5121301,3a,75y,265.38h,91.33t/data=!3m7!1e1!3m5!1sMbpt0VuAzske3qrkle5lWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3310051137671621%26panoid%3DMbpt0VuAzske3qrkle5lWQ%26yaw%3D265.38175182272624!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 34.6753992,
+      "lng": 135.5121301,
+      "panoid": "Mbpt0VuAzske3qrkle5lWQ",
+      "pitch": -1.3310051137671621,
+      "yaw": 265.38175182272624
+    },
+    "note": "Matsuyamachi Station, Osaka: Found tracker right near the exit of small station"
+  },
+  {
+    "id": 5,
+    "imageA": {
+      "url": "https://www.google.com/maps/@52.4992769,13.427527,3a,90y,4.28h,96.24t/data=!3m7!1e1!3m5!1srteB3XSzwebxMGr9EEhYZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.2427968308792146%26panoid%3DrteB3XSzwebxMGr9EEhYZA%26yaw%3D4.282410937113589!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 52.4992769,
+      "lng": 13.427527,
+      "panoid": "rteB3XSzwebxMGr9EEhYZA",
+      "pitch": -6.2427968308792146,
+      "yaw": 4.282410937113589
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@52.4993594,13.4279573,3a,90y,267.37h,87.35t/data=!3m7!1e1!3m5!1s7vr4Lap2kM38sA6TJIJiAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.650087010258659%26panoid%3D7vr4Lap2kM38sA6TJIJiAw%26yaw%3D267.3734393749106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 52.4993594,
+      "lng": 13.4279573,
+      "panoid": "7vr4Lap2kM38sA6TJIJiAw",
+      "pitch": 2.650087010258659,
+      "yaw": 267.3734393749106
+    },
+    "note": "Görlitzer Bahnhof, Berlin: Interesting because the train station is above the ground"
+  },
+  {
+    "id": 6,
+    "imageA": {
+      "url": "https://www.google.com/maps/@48.1966126,16.3574787,3a,75y,8.45h,89.74t/data=!3m7!1e1!3m5!1sBhYMakRZnwQJ6gcXRxVtlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.26281423277633564%26panoid%3DBhYMakRZnwQJ6gcXRxVtlQ%26yaw%3D8.452717446341353!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 48.1966126,
+      "lng": 16.3574787,
+      "panoid": "BhYMakRZnwQJ6gcXRxVtlQ",
+      "pitch": 0.26281423277633564,
+      "yaw": 8.452717446341353
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@48.1969113,16.3573766,3a,90y,249.73h,92.24t/data=!3m7!1e1!3m5!1snqw21z0yZ1LPISVIeXgUVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.2421557989174516%26panoid%3Dnqw21z0yZ1LPISVIeXgUVg%26yaw%3D249.72686509511345!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 48.1969113,
+      "lng": 16.3573766,
+      "panoid": "nqw21z0yZ1LPISVIeXgUVg",
+      "pitch": -2.2421557989174516,
+      "yaw": 249.72686509511345
+    },
+    "note": "Kettenbrückengasse Station, Wien: Weird pair because when one leaves the train station, first thing being seen is a parking lot. Heavy contrast to the street."
+  },
+  {
+    "id": 10,
+    "imageA": {
+      "url": "https://www.google.com/maps/@1.2989868,103.8454988,3a,90y,27.11h,84.07t/data=!3m7!1e1!3m5!1s7-K-YZUzSDLkd67eVXWsEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.928471898646308%26panoid%3D7-K-YZUzSDLkd67eVXWsEQ%26yaw%3D27.112265653517095!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 1.2989868,
+      "lng": 103.8454988,
+      "panoid": "7-K-YZUzSDLkd67eVXWsEQ",
+      "pitch": 5.928471898646308,
+      "yaw": 27.112265653517095
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@1.2991965,103.8455603,3a,90y,118.93h,83.65t/data=!3m7!1e1!3m5!1sKRMDDX9As2WV3A2mqJDBsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.353641017070373%26panoid%3DKRMDDX9As2WV3A2mqJDBsw%26yaw%3D118.92733444580742!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 1.2991965,
+      "lng": 103.8455603,
+      "panoid": "KRMDDX9As2WV3A2mqJDBsw",
+      "pitch": 6.353641017070373,
+      "yaw": 118.92733444580742
+    },
+    "note": "Dhoby Gaut Station, Singapore: Also address that scenes should be chosen with similar weather. Sometimes possible, since there is multiple coverage from different years."
+  },
+  {
+    "id": 11,
+    "imageA": {
+      "url": "https://www.google.com/maps/@41.9114263,12.4657063,3a,75y,212.9h,85.25t/data=!3m7!1e1!3m5!1saMDKlqpVAdePdPRdWR0AZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.746125165699667%26panoid%3DaMDKlqpVAdePdPRdWR0AZg%26yaw%3D212.90113921933897!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.9114263,
+      "lng": 12.4657063,
+      "panoid": "aMDKlqpVAdePdPRdWR0AZg",
+      "pitch": 4.746125165699667,
+      "yaw": 212.90113921933897
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@41.9112944,12.4656871,3a,75y,247.38h,90.63t/data=!3m7!1e1!3m5!1sgDjhdzDbRL_y9vBLTPq-Pg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6337596267086241%26panoid%3DgDjhdzDbRL_y9vBLTPq-Pg%26yaw%3D247.3802272197204!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.9112944,
+      "lng": 12.4656871,
+      "panoid": "gDjhdzDbRL_y9vBLTPq-Pg",
+      "pitch": -0.6337596267086241,
+      "yaw": 247.3802272197204
+    },
+    "note": "Lepanto Station, Rome: Follows the subway exit logic"
+  },
+  {
+    "id": 12,
+    "imageA": {
+      "url": "https://www.google.com/maps/@41.0370394,28.9856877,3a,90y,268.26h,81.05t/data=!3m7!1e1!3m5!1sUNUz_ZlFgzvu7whAjlM9OQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.945559548438922%26panoid%3DUNUz_ZlFgzvu7whAjlM9OQ%26yaw%3D268.25858174195463!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.0370394,
+      "lng": 28.9856877,
+      "panoid": "UNUz_ZlFgzvu7whAjlM9OQ",
+      "pitch": 8.945559548438922,
+      "yaw": 268.25858174195463
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@41.0367493,28.9856141,3a,75y,269.23h,84.15t/data=!3m7!1e1!3m5!1sa3Ls-i6cSDf9knfuvsUQ5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.8512264655337844%26panoid%3Da3Ls-i6cSDf9knfuvsUQ5Q%26yaw%3D269.22842283953634!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.0367493,
+      "lng": 28.9856141,
+      "panoid": "a3Ls-i6cSDf9knfuvsUQ5Q",
+      "pitch": 5.8512264655337844,
+      "yaw": 269.22842283953634
+    },
+    "note": "Taksim Station, Istanbul: Follows the same logic, might not be ideal since quite the special view"
+  },
+  {
+    "id": 13,
+    "imageA": {
+      "url": "https://www.google.com/maps/@-23.6104592,-46.6374456,3a,75y,283.25h,83.3t/data=!3m7!1e1!3m5!1s4IQdHUgewts2biZAL-dbIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.698044101235553%26panoid%3D4IQdHUgewts2biZAL-dbIw%26yaw%3D283.25247832648023!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": -23.6104592,
+      "lng": -46.6374456,
+      "panoid": "4IQdHUgewts2biZAL-dbIw",
+      "pitch": 6.698044101235553,
+      "yaw": 283.25247832648023
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@-23.610419,-46.6378329,3a,90y,36.18h,86.54t/data=!3m7!1e1!3m5!1seRmSlf_5hEGuy23ch2NaaQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.460568971199109%26panoid%3DeRmSlf_5hEGuy23ch2NaaQ%26yaw%3D36.18152679384137!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": -23.610419,
+      "lng": -46.6378329,
+      "panoid": "eRmSlf_5hEGuy23ch2NaaQ",
+      "pitch": 3.460568971199109,
+      "yaw": 36.18152679384137
+    },
+    "note": "Praça da Árvore Station, Sao Paulo: Follows same logic as always"
+  },
+  {
+    "id": 14,
+    "imageA": {
+      "url": "https://www.google.com/maps/@43.6458009,-79.3795013,3a,89.7y,24.09h,72.42t/data=!3m7!1e1!3m5!1sH1yJM6Pesg04h6Te6G9_Eg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.57547144505969%26panoid%3DH1yJM6Pesg04h6Te6G9_Eg%26yaw%3D24.089538830491847!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 43.6458009,
+      "lng": -79.3795013,
+      "panoid": "H1yJM6Pesg04h6Te6G9_Eg",
+      "pitch": 17.57547144505969,
+      "yaw": 24.089538830491847
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@43.6458949,-79.3795398,3a,75y,77.6h,91.24t/data=!3m7!1e1!3m5!1sfSBqX9QjFmj2glumRsz9jg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.236284235593999%26panoid%3DfSBqX9QjFmj2glumRsz9jg%26yaw%3D77.60434209729841!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 43.6458949,
+      "lng": -79.3795398,
+      "panoid": "fSBqX9QjFmj2glumRsz9jg",
+      "pitch": -1.236284235593999,
+      "yaw": 77.60434209729841
+    },
+    "note": "Union Station, Toronto: Same logic, however, this time main station"
+  },
+  {
+    "id": 15,
+    "imageA": {
+      "url": "https://www.google.com/maps/@41.8793797,-87.6262683,3a,90y,158.78h,78.21t/data=!3m7!1e1!3m5!1smUQpXXYHVsT9J3VzpijCYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.790560000551437%26panoid%3DmUQpXXYHVsT9J3VzpijCYA%26yaw%3D158.7818972513159!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.8793797,
+      "lng": -87.6262683,
+      "panoid": "mUQpXXYHVsT9J3VzpijCYA",
+      "pitch": 11.790560000551437,
+      "yaw": 158.7818972513159
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@41.8795359,-87.6263639,3a,90y,103.39h,89.33t/data=!3m7!1e1!3m5!1sERnHKyPaiIrBZ25IyxZQuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.6702362569505311%26panoid%3DERnHKyPaiIrBZ25IyxZQuw%26yaw%3D103.39190052183363!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.8795359,
+      "lng": -87.6263639,
+      "panoid": "ERnHKyPaiIrBZ25IyxZQuw",
+      "pitch": 0.6702362569505311,
+      "yaw": 103.39190052183363
+    },
+    "note": "Adams/Wabash Station, Chicago: Quite unusual, like the Berlin one"
+  },
+  {
+    "id": 16,
+    "imageA": {
+      "url": "https://www.google.com/maps/@60.1631927,24.9141189,3a,90y,329.85h,79.84t/data=!3m7!1e1!3m5!1suwHQOnDPkFxS2_YJAJ6BmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.16479498368291%26panoid%3DuwHQOnDPkFxS2_YJAJ6BmA%26yaw%3D329.850883746662!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 60.1631927,
+      "lng": 24.9141189,
+      "panoid": "uwHQOnDPkFxS2_YJAJ6BmA",
+      "pitch": 10.16479498368291,
+      "yaw": 329.850883746662
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@60.1632821,24.9140046,3a,75y,273.47h,87.84t/data=!3m8!1e1!3m6!1s3ZJHN6S_o7i-WpomhB5kGA!2e0!5s20210401T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.1586977823277635%26panoid%3D3ZJHN6S_o7i-WpomhB5kGA%26yaw%3D273.46741775541255!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 60.1632821,
+      "lng": 24.9140046,
+      "panoid": "3ZJHN6S_o7i-WpomhB5kGA",
+      "pitch": 2.1586977823277635,
+      "yaw": 273.46741775541255
+    },
+    "note": "Ruoholahti Stattion, Helsinki: Not ideal, since weather is not great (but similar in both images)"
+  },
+  {
+    "id": 17,
+    "imageA": {
+      "url": "https://www.google.com/maps/@47.4940671,19.0598941,3a,90y,118.82h,81.81t/data=!3m8!1e1!3m6!1sHQK3WTi3yWLDYfWjBbZPyA!2e0!5s20190401T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.187586043621835%26panoid%3DHQK3WTi3yWLDYfWjBbZPyA%26yaw%3D118.82466652179372!7i13312!8i6656!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 47.4940671,
+      "lng": 19.0598941,
+      "panoid": "HQK3WTi3yWLDYfWjBbZPyA",
+      "pitch": 8.187586043621835,
+      "yaw": 118.82466652179372
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/place/Pizza+King/@47.4940884,19.060003,3a,75y,162.95h,90t/data=!3m8!1e1!3m6!1slTWLtOt9gxBarxpLt8mFIw!2e0!5s20190701T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DlTWLtOt9gxBarxpLt8mFIw%26yaw%3D162.94667078156192!7i16384!8i8192!4m6!3m5!1s0x4741dc431330418f:0x1b7caaa5a6da0d9e!8m2!3d47.4937894!4d19.0600969!16s%2Fg%2F11bc96kydl!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 47.4940884,
+      "lng": 19.060003,
+      "panoid": "lTWLtOt9gxBarxpLt8mFIw",
+      "pitch": 0,
+      "yaw": 162.94667078156192
+    },
+    "note": "Astoria Station, Budapest: Same logic (image quality not the best)"
+  },
+  {
+    "id": 18,
+    "imageA": {
+      "url": "https://www.google.com/maps/@38.7139971,-9.1383404,3a,75y,257.16h,83.46t/data=!3m7!1e1!3m5!1ss5DxnCe6--4KeYMHZu8F4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.542624988517147%26panoid%3Ds5DxnCe6--4KeYMHZu8F4A%26yaw%3D257.1587390504785!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 38.7139971,
+      "lng": -9.1383404,
+      "panoid": "s5DxnCe6--4KeYMHZu8F4A",
+      "pitch": 6.542624988517147,
+      "yaw": 257.1587390504785
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@38.7132116,-9.1381342,3a,90y,351.11h,79.19t/data=!3m7!1e1!3m5!1sjGQV6cn1Ut4SUgUpPsk-RQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.810615887689863%26panoid%3DjGQV6cn1Ut4SUgUpPsk-RQ%26yaw%3D351.1112039610363!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 38.7132116,
+      "lng": -9.1381342,
+      "panoid": "jGQV6cn1Ut4SUgUpPsk-RQ",
+      "pitch": 10.810615887689863,
+      "yaw": 351.1112039610363
+    },
+    "note": "Rossio Station, Lisbon: Same logic"
+  },
+  {
+    "id": 19,
+    "imageA": {
+      "url": "https://www.google.com/maps/@44.4284247,26.1009437,3a,75y,66.13h,80.06t/data=!3m7!1e1!3m5!1sZvV2yao0nDIJCIkTmpZEHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.936977460418134%26panoid%3DZvV2yao0nDIJCIkTmpZEHA%26yaw%3D66.12758752674945!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 44.4284247,
+      "lng": 26.1009437,
+      "panoid": "ZvV2yao0nDIJCIkTmpZEHA",
+      "pitch": 9.936977460418134,
+      "yaw": 66.12758752674945
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@44.4284023,26.1011536,3a,75y,19.73h,81.69t/data=!3m7!1e1!3m5!1siQ4BYmbrqHwNNBt0AomEvw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.305120629589638%26panoid%3DiQ4BYmbrqHwNNBt0AomEvw%26yaw%3D19.72733115215496!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 44.4284023,
+      "lng": 26.1011536,
+      "panoid": "iQ4BYmbrqHwNNBt0AomEvw",
+      "pitch": 8.305120629589638,
+      "yaw": 19.72733115215496
+    },
+    "note": "Piata Unirii 1 Station, Bucharest: Same logic"
+  },
+  {
+    "id": 20,
+    "imageA": {
+      "url": "https://www.google.com/maps/@25.0553521,121.6172519,3a,90y,227.07h,86.73t/data=!3m7!1e1!3m5!1sDSRu2CtoKjotBiFnFgpa4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.2674078423393382%26panoid%3DDSRu2CtoKjotBiFnFgpa4w%26yaw%3D227.06856669258406!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 25.0553521,
+      "lng": 121.6172519,
+      "panoid": "DSRu2CtoKjotBiFnFgpa4w",
+      "pitch": 3.2674078423393382,
+      "yaw": 227.06856669258406
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@25.0551221,121.6171854,3a,75y,273.97h,92.87t/data=!3m7!1e1!3m5!1sD0vdt5wUOR4FwXd6yHV54Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.871971786262847%26panoid%3DD0vdt5wUOR4FwXd6yHV54Q%26yaw%3D273.96603609927956!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 25.0551221,
+      "lng": 121.6171854,
+      "panoid": "D0vdt5wUOR4FwXd6yHV54Q",
+      "pitch": -2.871971786262847,
+      "yaw": 273.96603609927956
+    },
+    "note": "Nangang Exhibition Center Station, Taipei: Same logic"
+  },
+  {
+    "id": 21,
+    "imageA": {
+      "url": "https://www.google.com/maps/@50.8334457,4.342854,3a,90y,182.51h,87.99t/data=!3m7!1e1!3m5!1seSVwJMXIdWPlNoWqB5SV6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0141297255310775%26panoid%3DeSVwJMXIdWPlNoWqB5SV6g%26yaw%3D182.50764792823446!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 50.8334457,
+      "lng": 4.342854,
+      "panoid": "eSVwJMXIdWPlNoWqB5SV6g",
+      "pitch": 2.0141297255310775,
+      "yaw": 182.50764792823446
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@50.833351,4.3426643,3a,75y,178.29h,87.35t/data=!3m8!1e1!3m6!1sIOKG1wTbg_cC1cinY4nwog!2e0!5s20211001T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.6548978537049095%26panoid%3DIOKG1wTbg_cC1cinY4nwog%26yaw%3D178.28823617147305!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 50.833351,
+      "lng": 4.3426643,
+      "panoid": "IOKG1wTbg_cC1cinY4nwog",
+      "pitch": 2.6548978537049095,
+      "yaw": 178.28823617147305
+    },
+    "note": "Porte de Hal Station, Brussels: Same logic (find a better date for image b)"
+  },
+  {
+    "id": 22,
+    "imageA": {
+      "url": "https://www.google.com/maps/@51.9196467,4.4798442,3a,75y,3.25h,79.66t/data=!3m8!1e1!3m6!1swjjPSadSW8Y8kzUfFNlQFA!2e0!5s20210801T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.344845878726005%26panoid%3DwjjPSadSW8Y8kzUfFNlQFA%26yaw%3D3.2530503300055287!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 51.9196467,
+      "lng": 4.4798442,
+      "panoid": "wjjPSadSW8Y8kzUfFNlQFA",
+      "pitch": 10.344845878726005,
+      "yaw": 3.2530503300055287
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@51.919756,4.480177,3a,75y,358.85h,91.28t/data=!3m8!1e1!3m6!1ss5yfMPJ94-N3jGq1Vmff8w!2e0!5s20210901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2815994150116836%26panoid%3Ds5yfMPJ94-N3jGq1Vmff8w%26yaw%3D358.8520157886761!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 51.919756,
+      "lng": 4.480177,
+      "panoid": "s5yfMPJ94-N3jGq1Vmff8w",
+      "pitch": -1.2815994150116836,
+      "yaw": 358.8520157886761
+    },
+    "note": "Beurs Station, Rotterdam: Same logic"
+  },
+  {
+    "id": 23,
+    "imageA": {
+      "url": "https://www.google.com/maps/@22.2818657,114.1587379,3a,90y,140.52h,94.28t/data=!3m7!1e1!3m5!1sqk-mVvgN7E7t_dB5Y7xFyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.278295568772393%26panoid%3Dqk-mVvgN7E7t_dB5Y7xFyA%26yaw%3D140.520955433713!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 22.2818657,
+      "lng": 114.1587379,
+      "panoid": "qk-mVvgN7E7t_dB5Y7xFyA",
+      "pitch": -4.278295568772393,
+      "yaw": 140.520955433713
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@22.281792,114.1586669,3a,75y,109.39h,92.89t/data=!3m8!1e1!3m6!1sKi2BuCFe4AuBgkIpFmgwcg!2e0!5s20220901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8892050780329726%26panoid%3DKi2BuCFe4AuBgkIpFmgwcg%26yaw%3D109.39093621482354!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 22.281792,
+      "lng": 114.1586669,
+      "panoid": "Ki2BuCFe4AuBgkIpFmgwcg",
+      "pitch": -2.8892050780329726,
+      "yaw": 109.39093621482354
+    },
+    "note": "Central Station, Hong Kong: Same logic"
+  },
+  {
+    "id": 24,
+    "imageA": {
+      "url": "https://www.google.com/maps/@-34.6270468,-58.3808759,3a,85.2y,149.67h,84.15t/data=!3m7!1e1!3m5!1sUnHflckfS4pM7M87ohB8Pw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.853193828569275%26panoid%3DUnHflckfS4pM7M87ohB8Pw%26yaw%3D149.6687640379909!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": -34.6270468,
+      "lng": -58.3808759,
+      "panoid": "UnHflckfS4pM7M87ohB8Pw",
+      "pitch": 5.853193828569275,
+      "yaw": 149.6687640379909
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@-34.6277822,-58.3806027,3a,90y,109.67h,94.57t/data=!3m7!1e1!3m5!1s8CNATjn4dzB1pfgXV21SEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.569047005361185%26panoid%3D8CNATjn4dzB1pfgXV21SEQ%26yaw%3D109.67463387382672!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": -34.6277822,
+      "lng": -58.3806027,
+      "panoid": "8CNATjn4dzB1pfgXV21SEQ",
+      "pitch": -4.569047005361185,
+      "yaw": 109.67463387382672
+    },
+    "note": "Constitución Station, Buenos Aires: Quite far away from each other, but same logic"
+  },
+  {
+    "id": 25,
+    "imageA": {
+      "url": "https://www.google.com/maps/@-22.9069295,-43.178514,3a,90y,34.05h,98.99t/data=!3m7!1e1!3m5!1sAMjo_0BpBgkQgL5jxSG0HQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.994459198359777%26panoid%3DAMjo_0BpBgkQgL5jxSG0HQ%26yaw%3D34.05404789420892!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": -22.9069295,
+      "lng": -43.178514,
+      "panoid": "AMjo_0BpBgkQgL5jxSG0HQ",
+      "pitch": -8.994459198359777,
+      "yaw": 34.05404789420892
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@-22.9063817,-43.1783846,3a,75y,97.82h,87.2t/data=!3m7!1e1!3m5!1sKahoZfs4yvZzC9yasrXGEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8041131215761226%26panoid%3DKahoZfs4yvZzC9yasrXGEw%26yaw%3D97.81700810919361!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": -22.9063817,
+      "lng": -43.1783846,
+      "panoid": "KahoZfs4yvZzC9yasrXGEw",
+      "pitch": 2.8041131215761226,
+      "yaw": 97.81700810919361
+    },
+    "note": "Centro Station, Rio de Janeiro: Same logic, however, little further away and weather not similar"
+  },
+  {
+    "id": 26,
+    "imageA": {
+      "url": "https://www.google.com/maps/@35.170261,136.9079844,2a,75y,103.73h,87.97t/data=!3m7!1e1!3m5!1sqX8Ir4aThvR9yuL8THwtAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.032477329533208%26panoid%3DqX8Ir4aThvR9yuL8THwtAg%26yaw%3D103.7343545970071!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 35.170261,
+      "lng": 136.9079844,
+      "panoid": "qX8Ir4aThvR9yuL8THwtAg",
+      "pitch": 2.032477329533208,
+      "yaw": 103.7343545970071
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@35.1700558,136.9082437,3a,90y,102.8h,83.09t/data=!3m8!1e1!3m6!1s4fdoJqnSxWAt4TRbK0ybdA!2e0!5s20181201T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.912856891727927%26panoid%3D4fdoJqnSxWAt4TRbK0ybdA%26yaw%3D102.80210676536122!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 35.1700558,
+      "lng": 136.9082437,
+      "panoid": "4fdoJqnSxWAt4TRbK0ybdA",
+      "pitch": 6.912856891727927,
+      "yaw": 102.80210676536122
+    },
+    "note": "Sakae Station, Nagoya: Same logic"
+  },
+  {
+    "id": 27,
+    "imageA": {
+      "url": "https://www.google.com/maps/@38.2662161,140.8707678,3a,90y,245.77h,92.69t/data=!3m7!1e1!3m5!1stz0ANZBU3ZI7B8JYbssT6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6892398400728865%26panoid%3Dtz0ANZBU3ZI7B8JYbssT6g%26yaw%3D245.77180513368776!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 38.2662161,
+      "lng": 140.8707678,
+      "panoid": "tz0ANZBU3ZI7B8JYbssT6g",
+      "pitch": -2.6892398400728865,
+      "yaw": 245.77180513368776
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@38.2661243,140.8706845,3a,75y,264.93h,84.8t/data=!3m8!1e1!3m6!1sBBITF3ndDVBKvJGCyFzpMQ!2e0!5s20240901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.198677125195019%26panoid%3DBBITF3ndDVBKvJGCyFzpMQ%26yaw%3D264.92564145614926!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 38.2661243,
+      "lng": 140.8706845,
+      "panoid": "BBITF3ndDVBKvJGCyFzpMQ",
+      "pitch": 5.198677125195019,
+      "yaw": 264.92564145614926
+    },
+    "note": "Kotodaikoen Station, Sendai: Same logic"
+  },
+  {
+    "id": 28,
+    "imageA": {
+      "url": "https://www.google.com/maps/@41.3808616,2.1735367,3a,75y,326.61h,87.84t/data=!3m7!1e1!3m5!1shld81oWxk9a8knpNgwQBAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.155351670439387%26panoid%3Dhld81oWxk9a8knpNgwQBAQ%26yaw%3D326.60757934486156!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.3808616,
+      "lng": 2.1735367,
+      "panoid": "hld81oWxk9a8knpNgwQBAQ",
+      "pitch": 2.155351670439387,
+      "yaw": 326.60757934486156
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@41.3808419,2.1734169,3a,75y,157.27h,82.81t/data=!3m8!1e1!3m6!1saG3N0nRMyemOU3UtVDNhLg!2e0!5s20240801T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.187331370265369%26panoid%3DaG3N0nRMyemOU3UtVDNhLg%26yaw%3D157.27170462402134!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 41.3808419,
+      "lng": 2.1734169,
+      "panoid": "aG3N0nRMyemOU3UtVDNhLg",
+      "pitch": 7.187331370265369,
+      "yaw": 157.27170462402134
+    },
+    "note": "Liceu Station, Barcelona: Same logic (not happy with time of the seasons)"
+  },
+  {
+    "id": 29,
+    "imageA": {
+      "url": "https://www.google.com/maps/@48.8395612,2.300895,3a,75y,193.1h,102.08t/data=!3m7!1e1!3m5!1s29QD-2DXGhGaj3sWd5p8-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.078267954508632%26panoid%3D29QD-2DXGhGaj3sWd5p8-A%26yaw%3D193.10193366613356!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 48.8395612,
+      "lng": 2.300895,
+      "panoid": "29QD-2DXGhGaj3sWd5p8-A",
+      "pitch": -12.078267954508632,
+      "yaw": 193.10193366613356
+    },
+    "imageB": {
+      "url": "https://www.google.com/maps/@48.8394374,2.3009366,3a,75y,63.78h,82.77t/data=!3m7!1e1!3m5!1sa5_WkvDj7zNMhT6fqmJ--g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.228910692042106%26panoid%3Da5_WkvDj7zNMhT6fqmJ--g%26yaw%3D63.778088166879996!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
+      "lat": 48.8394374,
+      "lng": 2.3009366,
+      "panoid": "a5_WkvDj7zNMhT6fqmJ--g",
+      "pitch": 7.228910692042106,
+      "yaw": 63.778088166879996
+    },
+    "note": "Vaugirard Station, Paris: Same logic"
+  }
+]

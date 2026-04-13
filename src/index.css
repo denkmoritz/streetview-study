@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@700;800&display=swap');
+
+/* Global CSS Variables
+   Use these everywhere — in component and page CSS files.
+   e.g. color: var(--text);  background: var(--bg);
+*/
+
+:root {
+  --bg: #0d0d0f;
+  --surface: #16161a;
+  --border: #2a2a32;
+  --accent: #e8ff5a;
+  --text: #f0f0f0;
+  --muted: #6b6b7a;
+
+  --font-mono: 'DM Mono', monospace;
+  --font-display: 'Syne', sans-serif;
+}
+
+/* Base Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Global Base Styles */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-mono);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.my-link {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.my-link:hover {
+  color: #bbbbbb;
+}
