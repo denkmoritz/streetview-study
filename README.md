@@ -1,4 +1,4 @@
-# Street View Survey
+# Street View Study
 
 A web-based pairwise comparison survey built for Prolific. Developed by [Moritz Denk](https://github.com/denkmoritz) as a student assistant at the [SPARC lab](https://www.uni-muenster.de/Geoinformatics/en/sparc/about/about.html), University of Münster.
 
